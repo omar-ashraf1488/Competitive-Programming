@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="700" <img src="current Images/HackerRank.png"/>
-  <img width="700" <img src="current Images/Codeforces.png"/>
+  <img width="300" <img src="Images/HackerRank.png"/>
+  <img width="300" <img src="Images/Codeforces.png"/>
 </p>
 
 <p align="center">
@@ -9,12 +9,14 @@
 
 
 
-## <a name="about_the_project"></a>About The Repository
+## About The Repository
 This Repository contains solutions to some programming challenges. The main aim of the Repository is learning "Problem Solving".
 
 
-
-
-### <a name="built_with"></a>Built With
+### Built With
 * Python 
 * IDE: Google Colab
+
+### Programming Challenges from
+* Codeforces
+* HackerRank
